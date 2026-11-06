@@ -1,0 +1,144 @@
+{
+  "cargoquery": [
+    {
+      "title": {
+        "OverviewPage": "Worlds/2026 Season/Play-In",
+        "Name": "Worlds 2026 Play-In",
+        "DateStart": "2026-10-15",
+        "DateEnd": "2026-10-18",
+        "Split": "Play-In",
+        "Year": "2026",
+        "Team": "Karmine Corp",
+        "Place": "1",
+        "WinSeries": "3",
+        "LossSeries": "0"
+      }
+    },
+    {
+      "title": {
+        "OverviewPage": "Worlds/2026 Season/Play-In",
+        "Name": "Worlds 2026 Play-In",
+        "DateStart": "2026-10-15",
+        "DateEnd": "2026-10-18",
+        "Split": "Play-In",
+        "Year": "2026",
+        "Team": "MVK Esports",
+        "Place": "2",
+        "WinSeries": "2",
+        "LossSeries": "2"
+      }
+    },
+    {
+      "title": {
+        "OverviewPage": "Worlds/2026 Season/Swiss Stage",
+        "Name": "Worlds 2026 Swiss Stage",
+        "DateStart": "2026-10-23",
+        "DateEnd": "2026-10-31",
+        "Split": "Swiss Stage",
+        "Year": "2026",
+        "Team": "Dplus KIA",
+        "Place": "1",
+        "WinSeries": "3",
+        "LossSeries": "0"
+      }
+    },
+    {
+      "title": {
+        "OverviewPage": "Worlds/2026 Season/Swiss Stage",
+        "Name": "Worlds 2026 Swiss Stage",
+        "DateStart": "2026-10-23",
+        "DateEnd": "2026-10-31",
+        "Split": "Swiss Stage",
+        "Year": "2026",
+        "Team": "Gen.G",
+        "Place": "2",
+        "WinSeries": "3",
+        "LossSeries": "0"
+      }
+    },
+    {
+      "title": {
+        "OverviewPage": "Worlds/2026 Season/Swiss Stage",
+        "Name": "Worlds 2026 Swiss Stage",
+        "DateStart": "2026-10-23",
+        "DateEnd": "2026-10-31",
+        "Split": "Swiss Stage",
+        "Year": "2026",
+        "Team": "T1",
+        "Place": "4",
+        "WinSeries": "3",
+        "LossSeries": "1"
+      }
+    },
+    {
+      "title": {
+        "OverviewPage": "Worlds/2026 Season/Knockout Stage",
+        "Name": "Worlds 2026 Knockout Stage",
+        "DateStart": "2026-11-03",
+        "DateEnd": "2026-11-08",
+        "Split": "Knockout Stage",
+        "Year": "2026",
+        "Team": "Gen.G",
+        "Place": "1",
+        "WinSeries": "1",
+        "LossSeries": "0"
+      }
+    },
+    {
+      "title": {
+        "OverviewPage": "Worlds/2026 Season/Knockout Stage",
+        "Name": "Worlds 2026 Knockout Stage",
+        "DateStart": "2026-11-03",
+        "DateEnd": "2026-11-08",
+        "Split": "Knockout Stage",
+        "Year": "2026",
+        "Team": "Bilibili Gaming",
+        "Place": "2",
+        "WinSeries": "1",
+        "LossSeries": "0"
+      }
+    },
+    {
+      "title": {
+        "OverviewPage": "Worlds/2026 Season/Knockout Stage",
+        "Name": "Worlds 2026 Knockout Stage",
+        "DateStart": "2026-11-03",
+        "DateEnd": "2026-11-08",
+        "Split": "Knockout Stage",
+        "Year": "2026",
+        "Team": "Invictus Gaming",
+        "Place": "3",
+        "WinSeries": "1",
+        "LossSeries": "0"
+      }
+    },
+    {
+      "title": {
+        "OverviewPage": "Worlds/2026 Season/Knockout Stage",
+        "Name": "Worlds 2026 Knockout Stage",
+        "DateStart": "2026-11-03",
+        "DateEnd": "2026-11-08",
+        "Split": "Knockout Stage",
+        "Year": "2026",
+        "Team": "LYON",
+        "Place": "5",
+        "WinSeries": "0",
+        "LossSeries": "1"
+      }
+    },
+    {
+      "title": {
+        "OverviewPage": "Worlds/2026 Season/Final",
+        "Name": "Worlds 2026 Final",
+        "DateStart": "2026-11-14",
+        "DateEnd": "2026-11-14",
+        "Split": "Final",
+        "Year": "2026",
+        "Team": "",
+        "Place": "",
+        "WinSeries": "",
+        "LossSeries": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Ahri": {
+    "core_items": ["Malignance", "Shadowflame", "Rabadon's Deathcap"],
+    "runes": "Electrocute, with Manaflow Band, Transcendence, Scorch, and Presence of Mind.",
+    "skill_order": "Max R whenever you can, then Q, then W, then E."
+  },
+  "Jinx": {
+    "core_items": ["Yun Tal Wildarrows", "Infinity Edge", "Runaan's Hurricane"],
+    "runes": "Press the Attack, with Presence of Mind, Legend: Alacrity, Coup de Grace, and Gathering Storm.",
+    "skill_order": "Max R whenever you can, then Q, then W, then E."
+  },
+  "Yasuo": {
+    "core_items": ["Immortal Shieldbow", "Infinity Edge", "Blade of The Ruined King"],
+    "runes": "Conqueror, with Triumph, Legend: Alacrity, Last Stand, and Second Wind.",
+    "skill_order": "Max R whenever you can, then Q, then E, then W."
+  },
+  "Lee Sin": {
+    "core_items": ["Eclipse", "Sundered Sky", "Black Cleaver"],
+    "runes": "Conqueror, with Triumph, Legend: Alacrity, Coup de Grace, and Sudden Impact.",
+    "skill_order": "Max R whenever you can, then Q, then W, then E."
+  },
+  "Thresh": {
+    "core_items": ["Locket of the Iron Solari", "Knight's Vow", "Redemption"],
+    "runes": "Aftershock, with Font of Life, Bone Plating, Unflinching, and Cheap Shot.",
+    "skill_order": "Max R whenever you can, then Q, then E, then W."
+  },
+  "Lux": {
+    "core_items": ["Luden's Echo", "Shadowflame", "Rabadon's Deathcap"],
+    "runes": "Arcane Comet, with Manaflow Band, Transcendence, Scorch, and Presence of Mind.",
+    "skill_order": "Max R whenever you can, then Q, then E, then W."
+  },
+  "Darius": {
+    "core_items": ["Stridebreaker", "Dead Man's Plate", "Sterak's Gage"],
+    "runes": "Conqueror, with Triumph, Legend: Alacrity, Last Stand, and Second Wind.",
+    "skill_order": "Max R whenever you can, then Q, then E, then W."
+  },
+  "Kai'Sa": {
+    "core_items": ["Kraken Slayer", "Guinsoo's Rageblade", "Nashor's Tooth"],
+    "runes": "Press the Attack, with Presence of Mind, Legend: Alacrity, Coup de Grace, and Eyeball Collection.",
+    "skill_order": "Max R whenever you can, then Q, then W, then E."
+  },
+  "Ezreal": {
+    "core_items": ["Trinity Force", "Manamune", "Serylda's Grudge"],
+    "runes": "Conqueror, with Presence of Mind, Legend: Haste, Coup de Grace, and Manaflow Band.",
+    "skill_order": "Max R whenever you can, then Q, then E, then W."
+  },
+  "Ornn": {
+    "core_items": ["Heartsteel", "Sunfire Aegis", "Thornmail"],
+    "runes": "Grasp of the Undying, with Shield Bash, Conditioning, Overgrowth, and Manaflow Band.",
+    "skill_order": "Max R whenever you can, then Q, then W, then E."
+  }
+}
